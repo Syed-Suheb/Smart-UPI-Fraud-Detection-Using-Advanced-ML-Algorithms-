@@ -1,7 +1,9 @@
-# Django-registration-and-login-system
+# SMART UPI FRAUD DETECTION USING ADVANCED MACHINE LEARNING – AN INTELLIGENT SYSTEM FOR IDENTIFYING ANAMOLIES IN UPI PAYMENT NETWORKS
+
+An intelligent fraud detection system that identifies anomalies in UPI payment transactions using advanced Machine Learning algorithms, deployed as a full-stack Django web application.
 This web app has been developed using the popular Django framework and Bootstrap for the frontend. My motivation to build this project is so that I can learn about Django and tighten up my skills. This mini-app can be easily integrated into a bigger system project that needs to have a registration and login system.
 
-### Basic Features of The App
+## Basic Features of The App
     
 * Register – Users can register and create a new profile
 * Login - Registered users can login using username and password
@@ -11,3 +13,9 @@ This web app has been developed using the popular Django framework and Bootstrap
 * Remember me – Cookie Option, users don’t have to provide credentials every time they hit the site
 * Forgot Password – Users can easily retrieve their password if they forget it 
 * Admin Panel – admin can CRUD users
+
+## Tech Stack
+**ML & Data:**  Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+**Backend:**  Django, SQLite3
+**Frontend:**  HTML, CSS, JavaScript
+**Tools:** Jupyter Notebook, VS Code, Anaconda
